@@ -1,0 +1,209 @@
+SMS:
+
+
+Network Information:
+The Wi-Fi is connected
+Network Name: <unknown ssid>
+BSSID: 02:00:00:00:00:00
+Network ID: -1
+Describe Contents: 0
+IPv4: 10.0.2.16
+IPv6: FE80::15:B2FF:FE00:0
+
+DEVICE DETAILS:
+ID: QSR1.210802.001
+Model: Android SDK built for x86
+Serial: unknown
+Hardware: ranchu
+OS version :4.14.175-g6f3fc9538452
+User: android-build
+Host: abfarm-00927
+Product sdk_gphone_x86
+Device: generic_x86
+SDK Version: 29Radio Version: 1.0.0.0
+Brand: google
+Display: sdk_gphone_x86-userdebug 10 QSR1.210802.001 7603624 dev-keys
+Bootloader: unknown
+Manufacturer: Google
+Version Release: 10
+
+APPLICATIONS:
+com.android.cts.priv.ctsshim
+YouTube
+Corner cutout
+Android Services Library
+Double cutout
+Phone and Messaging Storage
+Dynamic System Updates
+Google
+Calendar Storage
+Media Storage
+Square
+Google One Time Init
+Android Shared Library
+Gestural Navigation Bar
+Cinnamon
+Rounded
+Filled
+Filled
+Filled
+Files
+External Storage
+Device Policy
+HTML Viewer
+Companion Device Manager
+MmsService
+Download Manager
+Messages
+Sounds
+Rounded
+Pixel Wallpapers 18
+Circular
+ConfigUpdater
+Filled
+com.google.android.overlay.googlewebview
+Time Zone Updater
+Downloads
+license checker
+PacProcessor
+Sim App Dialog
+Tall cutout
+Certificate Installer
+Black
+com.android.carrierconfig
+Green
+Ocean
+Space
+3 Button Navigation Bar
+Android System
+Contacts
+Camera
+Rounded
+Magic Date
+Google Indic Keyboard
+Android Q Easter Egg
+MTP Host
+Nfc Service
+com.android.ons
+SIM Toolkit
+com.android.backupconfirm
+Clock
+2 Button Navigation Bar
+Intent Filter Verification Service
+OsuLogin
+Gmail
+Settings Suggestions
+Gestural Navigation Bar
+Permission controller
+Filled
+Filled
+Android Setup
+Settings Storage
+com.android.sharedstoragebackup
+Android System Angle
+Google Play Music
+Print Spooler
+Filled
+Basic Daydreams
+SecureElementApplication
+Input Devices
+Default Print Service
+Filled
+CaptivePortalLogin
+Circular
+MusicFX
+Drive
+Maps
+Module Metadata
+Emu01 display cutout
+Markup
+Emergency alerts
+Android System WebView
+Teardrop
+NetworkStack
+Call Management
+Google Contacts Sync
+Key Chain
+com.google.android.overlay.googleconfig
+com.android.service.ims.RcsServiceApp
+Chrome
+Phone
+Filled
+Package installer
+Google Play services
+Google Services Framework
+Carrier Services
+Google Text-to-speech Engine
+Live data wallpapers
+com.google.android.overlay.permissioncontroller
+com.google.android.overlay.emulatorconfig
+Call Log Backup/Restore
+Google Partner Setup
+Safety & regulatory manual
+Google Wallpaper Images
+com.android.localtransport
+Google Play Movies & TV
+Pixel Launcher
+CarrierDefaultApp
+Noto Serif / Source Sans Pro
+Filled
+ProxyHandler
+Circular
+Market Feedback Agent
+Print Service Recommendation Service
+Photos
+Calendar
+Work Setup
+Filled
+Emulator Multi Display Provider
+Malware
+com.android.providers.partnerbookmarks
+com.android.smspush
+Presence
+Live Wallpaper Picker
+Tags
+Google Korean Input
+Squircle
+com.google.android.sdksetup
+Filled
+Filled
+Filled
+com.android.server.NetworkPermissionConfig
+Storage Manager
+Bookmark Provider
+com.google.android.overlay.pixelconfigcommon
+Settings
+Google Pinyin Input
+Data Transfer Tool
+Filled
+Filled
+Filled
+Android Auto
+Carrier Provisioning Service
+com.android.cts.ctsshim
+Circular
+VpnDialogs
+Wallpapers
+Phone Services
+Shell
+Filled
+com.android.wallpaperbackup
+Blocked Numbers Storage
+User Dictionary
+Emergency information
+Gestural Navigation Bar
+Fused Location
+Orchid
+System UI
+Purple
+Bluetooth MIDI Service
+System Tracing
+Bluetooth
+Contacts Storage
+Rounded Rectangle
+Gestural Navigation Bar
+Rounded
+Gboard
+Circular
+
+PHONE CONTACTS
